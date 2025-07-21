@@ -1,0 +1,103 @@
+================================================================================
+REPORTE DE EMISIONES ASRUN
+================================================================================
+Generado: 2025-06-10 10:55:50
+Filtros aplicados: Desde: 2025-06-03 | Hasta: 2025-06-10
+Total de emisiones: 302
+Clientes únicos: 13
+================================================================================
+
+RESUMEN POR CLIENTE
+--------------------------------------------------
+Cliente: CONSORCIO
+  Emisiones: 64
+  Período: 2025-06-03 → 2025-06-06
+
+Cliente: MARLEY
+  Emisiones: 44
+  Período: 2025-06-03 → 2025-06-06
+
+Cliente: MOVISTAR
+  Emisiones: 38
+  Período: 2025-06-03 → 2025-06-07
+
+Cliente: TE PILLE
+  Emisiones: 30
+  Período: 2025-06-03 → 2025-06-07
+
+Cliente: ATLAS
+  Emisiones: 27
+  Período: 2025-06-03 → 2025-06-06
+
+Cliente: IMAGINA CYBER
+  Emisiones: 27
+  Período: 2025-06-03 → 2025-06-05
+
+Cliente: MIRA
+  Emisiones: 21
+  Período: 2025-06-03 → 2025-06-07
+
+Cliente: BHP
+  Emisiones: 16
+  Período: 2025-06-03 → 2025-06-07
+
+Cliente: CAP
+  Emisiones: 16
+  Período: 2025-06-03 → 2025-06-07
+
+Cliente: SINGULARITY
+  Emisiones: 8
+  Período: 2025-06-03 → 2025-06-03
+
+Cliente: SKECHERS
+  Emisiones: 6
+  Período: 2025-06-03 → 2025-06-06
+
+Cliente: GASCO
+  Emisiones: 3
+  Período: 2025-06-03 → 2025-06-06
+
+Cliente: CYNERSIS
+  Emisiones: 2
+  Período: 2025-06-03 → 2025-06-06
+
+
+ANÁLISIS DE STATUS
+------------------------------
+Completed: 295 emisiones (97.7%)
+Lost XPoint Path: 7 emisiones (2.3%)
+
+DETALLE DE LOST XPOINT PATH (7 registros)
+--------------------------------------------------
+Fecha: 2025-06-03 | Hora: 07:18:45 | Cliente: CONSORCIO
+Título: CONSORCIO_CYBER_OUTDOOR_446669
+Media ID: COM30052025002
+
+Fecha: 2025-06-03 | Hora: 07:39:55 | Cliente: CONSORCIO
+Título: CONSORCIO_SYBERURBANA_446667
+Media ID: COM30052025001
+
+Fecha: 2025-06-03 | Hora: 07:40:05 | Cliente: SINGULARITY
+Título: SINGULARITY_MPARTNER_04JUN
+Media ID: COM29042025001
+
+Fecha: 2025-06-05 | Hora: 17:56:30 | Cliente: CONSORCIO
+Título: A_CONS_URBANACONCEPTO_445908
+Media ID: COM12052025010
+
+Fecha: 2025-06-05 | Hora: 17:56:40 | Cliente: IMAGINA CYBER
+Título: IMAGINA CYBER
+Media ID: COM02062025001
+
+Fecha: 2025-06-06 | Hora: 15:31:42 | Cliente: MARLEY
+Título: ABRE DEPORTES MARLEY_SKECHERS
+Media ID: COM04042025002
+
+Fecha: 2025-06-06 | Hora: 15:37:40 | Cliente: MARLEY
+Título: ABRE DEPORTES MARLEY_SKECHERS
+Media ID: COM04042025002
+
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

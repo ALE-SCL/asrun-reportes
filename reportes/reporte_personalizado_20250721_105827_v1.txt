@@ -1,0 +1,195 @@
+================================================================================
+REPORTE DE EMISIONES ASRUN
+================================================================================
+Generado: 2025-07-21 10:58:27
+Filtros aplicados: Desde: 2025-07-01 | Hasta: 2025-07-20
+Total de emisiones: 1,804
+Clientes únicos: 40
+================================================================================
+
+RESUMEN POR CLIENTE
+--------------------------------------------------
+Cliente: CONSORCIO
+  Emisiones: 304
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: MARLEY
+  Emisiones: 203
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: FUNDACION YA-25 AGOSTO
+  Emisiones: 160
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: CNN
+  Emisiones: 140
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: TE PILLE
+  Emisiones: 135
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: EMPRESAS X CHILE
+  Emisiones: 119
+  Período: 2025-07-05 → 2025-07-20
+
+Cliente: ATLAS
+  Emisiones: 117
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: CAP
+  Emisiones: 102
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: MIRA
+  Emisiones: 96
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: UNICEF WEB 447410
+  Emisiones: 76
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: BHP
+  Emisiones: 71
+  Período: 2025-07-01 → 2025-07-20
+
+Cliente: BMW
+  Emisiones: 61
+  Período: 2025-07-08 → 2025-07-20
+
+Cliente: UNICEF FONO+WEB 447410
+  Emisiones: 58
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: SKECHERS
+  Emisiones: 26
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: GASCO
+  Emisiones: 20
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: TI HARD ROCK HOTEL CANCUN
+  Emisiones: 14
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: CYNERSIS
+  Emisiones: 13
+  Período: 2025-07-01 → 2025-07-17
+
+Cliente: IMAGINA BLACK INMOBILIARIO
+  Emisiones: 13
+  Período: 2025-07-20 → 2025-07-20
+
+Cliente: MINERIA
+  Emisiones: 9
+  Período: 2025-07-07 → 2025-07-17
+
+Cliente: TI SEGUROS SURA
+  Emisiones: 9
+  Período: 2025-07-02 → 2025-07-14
+
+Cliente: A XTB INVERSIONES 30 SEG
+  Emisiones: 8
+  Período: 2025-07-14 → 2025-07-18
+
+Cliente: TI CMT SALUD
+  Emisiones: 7
+  Período: 2025-07-01 → 2025-07-13
+
+Cliente: TI VEOLIA
+  Emisiones: 5
+  Período: 2025-07-01 → 2025-07-05
+
+Cliente: MC 15 DE JULIO EDUARDO
+  Emisiones: 5
+  Período: 2025-07-16 → 2025-07-20
+
+Cliente: 08 AL 13 DEL 7 EDUARDO  VOTO OBI
+  Emisiones: 4
+  Período: 2025-07-09 → 2025-07-11
+
+Cliente: DG MEDIOS IMAGEN DRAGONS
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: DG MEDIOS LINKIN PARK
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: 08 AL 13 DEL 7 MONICA LA AMENAZA
+  Emisiones: 3
+  Período: 2025-07-09 → 2025-07-10
+
+Cliente: TI KDM EMPRESAS
+  Emisiones: 3
+  Período: 2025-07-01 → 2025-07-03
+
+Cliente: DG MEDIOS DUA LIPA
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: 08 AL 13 DEL 7 DANIEL LISTAS PAR
+  Emisiones: 2
+  Período: 2025-07-09 → 2025-07-10
+
+Cliente: TOYOTA TO
+  Emisiones: 2
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: TOYOTA 4 RUNNER V2
+  Emisiones: 2
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: TI FQP
+  Emisiones: 2
+  Período: 2025-07-01 → 2025-07-02
+
+Cliente: 08 DE JULIO EDUARDO  VOTO OBIGAT
+  Emisiones: 1
+  Período: 2025-07-08 → 2025-07-08
+
+Cliente: 08 DE JULIO DANIEL LISTAS PARLAM
+  Emisiones: 1
+  Período: 2025-07-08 → 2025-07-08
+
+Cliente: S SEGURIDAD GUION 3
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: S SEGURIDAD GUION 2
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: SSEGURIDAD
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: TI SCM VIVIENDAS
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+
+ANÁLISIS DE STATUS
+------------------------------
+Completed: 1801 emisiones (99.8%)
+Lost XPoint Path: 3 emisiones (0.2%)
+
+DETALLE DE LOST XPOINT PATH (3 registros)
+--------------------------------------------------
+Fecha: 2025-07-02 | Hora: 08:16:52 | Cliente: TE PILLE
+Título: TE PILLE TENIS 2025
+Media ID: COM17062025001
+
+Fecha: 2025-07-02 | Hora: 13:40:51 | Cliente: UNICEF FONO+WEB 447410
+Título: UNICEF FONO+WEB 447410
+Media ID: COM16062025001
+
+Fecha: 2025-07-18 | Hora: 08:20:26 | Cliente: TE PILLE
+Título: TE PILLE TENIS 2025
+Media ID: COM17062025001
+
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

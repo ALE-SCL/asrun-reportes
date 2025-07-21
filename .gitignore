@@ -1,0 +1,38 @@
+# Archivos temporales y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de backup temporales
+*.bak
+*.tmp
+*~
+
+# Logs
+*.log
+
+# Archivos de configuración local
+config.local.*
+.env
+
+# Archivos de prueba temporales
+test_*.py
+prueba_*.py
+temp_*.py

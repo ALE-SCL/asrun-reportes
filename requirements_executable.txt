@@ -1,0 +1,8 @@
+# Dependencias adicionales para ejecutable Windows
+streamlit>=1.45.0
+pandas>=2.0.0
+plotly>=6.0.0
+openpyxl>=3.0.0
+pyinstaller>=6.0.0
+pyinstaller-hooks-contrib>=2024.0
+auto-py-to-exe>=2.40.0  # GUI opcional para PyInstaller

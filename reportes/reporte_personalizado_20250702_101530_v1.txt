@@ -1,0 +1,287 @@
+================================================================================
+REPORTE DE EMISIONES ASRUN
+================================================================================
+Generado: 2025-07-02 10:15:30
+Filtros aplicados: Desde: 2025-05-31 | Hasta: 2025-07-01
+Total de emisiones: 2,724
+Clientes únicos: 36
+================================================================================
+
+RESUMEN POR CLIENTE
+--------------------------------------------------
+Cliente: CONSORCIO
+  Emisiones: 463
+  Período: 2025-06-02 → 2025-07-01
+
+Cliente: MARLEY
+  Emisiones: 337
+  Período: 2025-06-02 → 2025-07-01
+
+Cliente: MOVISTAR
+  Emisiones: 272
+  Período: 2025-05-31 → 2025-06-30
+
+Cliente: TE PILLE
+  Emisiones: 216
+  Período: 2025-05-31 → 2025-07-01
+
+Cliente: ATLAS
+  Emisiones: 180
+  Período: 2025-06-02 → 2025-07-01
+
+Cliente: MIRA
+  Emisiones: 176
+  Período: 2025-06-01 → 2025-07-01
+
+Cliente: CAP
+  Emisiones: 151
+  Período: 2025-05-31 → 2025-07-01
+
+Cliente: CNN
+  Emisiones: 125
+  Período: 2025-06-11 → 2025-07-01
+
+Cliente: BHP
+  Emisiones: 116
+  Período: 2025-05-31 → 2025-07-01
+
+Cliente: CANNON
+  Emisiones: 96
+  Período: 2025-05-31 → 2025-06-02
+
+Cliente: BMW
+  Emisiones: 68
+  Período: 2025-06-16 → 2025-06-24
+
+Cliente: GASCO
+  Emisiones: 66
+  Período: 2025-05-31 → 2025-07-01
+
+Cliente: UNICEF WEB 447036
+  Emisiones: 51
+  Período: 2025-06-11 → 2025-06-22
+
+Cliente: SINGULARITY
+  Emisiones: 48
+  Período: 2025-05-31 → 2025-06-04
+
+Cliente: IMAGINA CYBER
+  Emisiones: 44
+  Período: 2025-06-03 → 2025-06-05
+
+Cliente: SKECHERS
+  Emisiones: 40
+  Período: 2025-06-02 → 2025-07-01
+
+Cliente: FUNDACION YA-25 AGOSTO
+  Emisiones: 36
+  Período: 2025-06-25 → 2025-07-01
+
+Cliente: UNICEF WEB 447410
+  Emisiones: 30
+  Período: 2025-06-23 → 2025-07-01
+
+Cliente: TOYOTA TO
+  Emisiones: 24
+  Período: 2025-06-09 → 2025-07-01
+
+Cliente: UNICEF FONO+WEB 447035
+  Emisiones: 21
+  Período: 2025-06-11 → 2025-06-19
+
+Cliente: CYNERSIS
+  Emisiones: 19
+  Período: 2025-06-01 → 2025-07-01
+
+Cliente: TOYOTA 4 RUNNER
+  Emisiones: 18
+  Período: 2025-06-09 → 2025-06-17
+
+Cliente: UNICEF FONO+WEB 447410
+  Emisiones: 18
+  Período: 2025-06-23 → 2025-07-01
+
+Cliente: MC
+  Emisiones: 18
+  Período: 2025-06-17 → 2025-06-21
+
+Cliente: TOYOTA 4 RUNNER V2
+  Emisiones: 17
+  Período: 2025-06-23 → 2025-07-01
+
+Cliente: S SEGURIDAD GUION 3
+  Emisiones: 16
+  Período: 2025-06-29 → 2025-07-01
+
+Cliente: S SEGURIDAD GUION 2
+  Emisiones: 16
+  Período: 2025-06-29 → 2025-07-01
+
+Cliente: S SEGURIDAD GUION 1
+  Emisiones: 14
+  Período: 2025-06-29 → 2025-06-30
+
+Cliente: TI SCM VIVIENDAS
+  Emisiones: 8
+  Período: 2025-06-23 → 2025-07-01
+
+Cliente: TI KDM EMPRESAS
+  Emisiones: 6
+  Período: 2025-06-23 → 2025-07-01
+
+Cliente: SSEGURIDAD
+  Emisiones: 3
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: TI FQP
+  Emisiones: 3
+  Período: 2025-06-27 → 2025-07-01
+
+Cliente: TI CMT SALUD
+  Emisiones: 3
+  Período: 2025-06-28 → 2025-07-01
+
+Cliente: TI PACLIFE
+  Emisiones: 3
+  Período: 2025-06-27 → 2025-06-29
+
+Cliente: TI HARD ROCK HOTEL CANCUN
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: TI VEOLIA
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+
+ANÁLISIS DE STATUS
+------------------------------
+Completed: 2694 emisiones (98.9%)
+Lost XPoint Path: 30 emisiones (1.1%)
+
+DETALLE DE LOST XPOINT PATH (30 registros)
+--------------------------------------------------
+Fecha: 2025-06-02 | Hora: 07:17:43 | Cliente: CANNON
+Título: CANNON CYBER
+Media ID: COM29052025001
+
+Fecha: 2025-06-02 | Hora: 07:39:24 | Cliente: CONSORCIO
+Título: CONSORCIO_SYBERURBANA_446667
+Media ID: COM30052025001
+
+Fecha: 2025-06-02 | Hora: 07:39:34 | Cliente: CANNON
+Título: CANNON CYBER
+Media ID: COM29052025001
+
+Fecha: 2025-06-02 | Hora: 08:27:09 | Cliente: GASCO
+Título: CIERRA_GASCO_MINERIA_AGENDA_AM
+Media ID: COM08052025006
+
+Fecha: 2025-06-02 | Hora: 08:27:19 | Cliente: GASCO
+Título: GASCO MINERIA_INERSA
+Media ID: COM06052025001
+
+Fecha: 2025-06-03 | Hora: 07:18:45 | Cliente: CONSORCIO
+Título: CONSORCIO_CYBER_OUTDOOR_446669
+Media ID: COM30052025002
+
+Fecha: 2025-06-03 | Hora: 07:39:55 | Cliente: CONSORCIO
+Título: CONSORCIO_SYBERURBANA_446667
+Media ID: COM30052025001
+
+Fecha: 2025-06-03 | Hora: 07:40:05 | Cliente: SINGULARITY
+Título: SINGULARITY_MPARTNER_04JUN
+Media ID: COM29042025001
+
+Fecha: 2025-06-04 | Hora: 18:05:37 | Cliente: CONSORCIO
+Título: CONSORCIO_CYBER_OUTDOOR_446669
+Media ID: COM30052025002
+
+Fecha: 2025-06-04 | Hora: 18:05:47 | Cliente: IMAGINA CYBER
+Título: IMAGINA CYBER
+Media ID: COM02062025001
+
+Fecha: 2025-06-04 | Hora: 18:47:07 | Cliente: CONSORCIO
+Título: CONT_CONSORCIO_CYBER_HESN
+Media ID: COM02062025015
+
+Fecha: 2025-06-04 | Hora: 19:14:02 | Cliente: CONSORCIO
+Título: CONSORCIO_CYBER_OUTDOOR_446669
+Media ID: COM30052025002
+
+Fecha: 2025-06-04 | Hora: 19:26:09 | Cliente: CONSORCIO
+Título: CIERRE CONSORCIO CYBER_HENOT
+Media ID: COM02062025014
+
+Fecha: 2025-06-05 | Hora: 17:56:30 | Cliente: CONSORCIO
+Título: A_CONS_URBANACONCEPTO_445908
+Media ID: COM12052025010
+
+Fecha: 2025-06-05 | Hora: 17:56:40 | Cliente: IMAGINA CYBER
+Título: IMAGINA CYBER
+Media ID: COM02062025001
+
+Fecha: 2025-06-06 | Hora: 15:31:42 | Cliente: MARLEY
+Título: ABRE DEPORTES MARLEY_SKECHERS
+Media ID: COM04042025002
+
+Fecha: 2025-06-06 | Hora: 15:37:40 | Cliente: MARLEY
+Título: ABRE DEPORTES MARLEY_SKECHERS
+Media ID: COM04042025002
+
+Fecha: 2025-06-09 | Hora: 20:51:17 | Cliente: MOVISTAR
+Título: CONTINUIDAD MOVISTAR PRIME
+Media ID: COM23052025003
+
+Fecha: 2025-06-11 | Hora: 13:00:53 | Cliente: MARLEY
+Título: ABRE MARLEY CNN TARDE
+Media ID: COM12022025002
+
+Fecha: 2025-06-12 | Hora: 18:07:59 | Cliente: CONSORCIO
+Título: A_CONS_URBANACONCEPTO_445908
+Media ID: COM12052025010
+
+Fecha: 2025-06-13 | Hora: 21:24:24 | Cliente: MOVISTAR
+Título: CONTINUIDAD MOVISTAR PRIME
+Media ID: COM23052025003
+
+Fecha: 2025-06-13 | Hora: 21:24:40 | Cliente: MOVISTAR
+Título: MOVISTAR FIBRA_E_910153_40S
+Media ID: COM22052025002
+
+Fecha: 2025-06-13 | Hora: 21:30:36 | Cliente: UNICEF WEB 447036
+Título: UNICEF WEB 447036
+Media ID: COM05062025006
+
+Fecha: 2025-06-16 | Hora: 08:30:56 | Cliente: GASCO
+Título: CIERRA_GASCO_MINERIA_AGENDA_AM
+Media ID: COM08052025006
+
+Fecha: 2025-06-16 | Hora: 08:31:07 | Cliente: GASCO
+Título: GASCO MINERIA_INERSA
+Media ID: COM06052025001
+
+Fecha: 2025-06-19 | Hora: 21:30:35 | Cliente: CNN
+Título: BOMA _UDD_CNN_12 JULIO
+Media ID: COM11062025001
+
+Fecha: 2025-06-24 | Hora: 13:00:56 | Cliente: MARLEY
+Título: ABRE MARLEY CNN TARDE
+Media ID: COM12022025002
+
+Fecha: 2025-06-27 | Hora: 08:30:33 | Cliente: MOVISTAR
+Título: MOVISTAR FIBRA_E_910147_22S
+Media ID: COM22052025001
+
+Fecha: 2025-06-29 | Hora: 15:27:16 | Cliente: S SEGURIDAD GUION 2
+Título: S SEGURIDAD GUION 2
+Media ID: COM26062025007
+
+Fecha: 2025-06-29 | Hora: 15:27:36 | Cliente: FUNDACION YA-25 AGOSTO
+Título: FUNDACION YA-25 AGOSTO
+Media ID: COM24062025001
+
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

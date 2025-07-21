@@ -1,0 +1,119 @@
+================================================================================
+REPORTE DE EMISIONES ASRUN
+================================================================================
+Generado: 2025-06-10 10:23:03
+Filtros aplicados: Sin filtros
+Total de emisiones: 349
+Clientes únicos: 13
+================================================================================
+
+RESUMEN POR CLIENTE
+--------------------------------------------------
+Cliente: CONSORCIO
+  Emisiones: 64
+  Período: 2025-05-28 → 2025-05-30
+
+Cliente: CANNON
+  Emisiones: 60
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: MARLEY
+  Emisiones: 42
+  Período: 2025-05-28 → 2025-05-30
+
+Cliente: SINGULARITY
+  Emisiones: 35
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: TE PILLE
+  Emisiones: 31
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: MOVISTAR
+  Emisiones: 30
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: ATLAS
+  Emisiones: 27
+  Período: 2025-05-28 → 2025-05-30
+
+Cliente: CAP
+  Emisiones: 16
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: BHP
+  Emisiones: 16
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: GASCO
+  Emisiones: 12
+  Período: 2025-05-28 → 2025-05-31
+
+Cliente: MIRA
+  Emisiones: 8
+  Período: 2025-05-28 → 2025-05-29
+
+Cliente: SKECHERS
+  Emisiones: 6
+  Período: 2025-05-28 → 2025-05-30
+
+Cliente: CYNERSIS
+  Emisiones: 2
+  Período: 2025-05-28 → 2025-05-28
+
+
+ANÁLISIS DE STATUS
+------------------------------
+Completed: 338 emisiones (96.8%)
+Lost XPoint Path: 11 emisiones (3.2%)
+
+DETALLE DE LOST XPOINT PATH (11 registros)
+--------------------------------------------------
+Fecha: 2025-05-28 | Hora: 07:18:48 | Cliente: CANNON
+Título: CANNON HOME ATELIER
+Media ID: COM09052025001
+
+Fecha: 2025-05-28 | Hora: 07:19:14 | Cliente: CONSORCIO
+Título: G_CONS_URBANAREVTECNICA _445911
+Media ID: COM12052025016
+
+Fecha: 2025-05-28 | Hora: 07:40:13 | Cliente: CANNON
+Título: CANNON HOME ATELIER
+Media ID: COM09052025001
+
+Fecha: 2025-05-29 | Hora: 06:38:48 | Cliente: SINGULARITY
+Título: SINGULARITY_MPARTNER_04JUN
+Media ID: COM29042025001
+
+Fecha: 2025-05-29 | Hora: 07:33:08 | Cliente: CANNON
+Título: CANNON HOME ATELIER
+Media ID: COM09052025001
+
+Fecha: 2025-05-29 | Hora: 07:33:33 | Cliente: CONSORCIO
+Título: G_CONS_URBANAREVTECNICA _445911
+Media ID: COM12052025016
+
+Fecha: 2025-05-29 | Hora: 13:30:05 | Cliente: BHP
+Título: BHP DESALINATIOV V2_445994
+Media ID: COM20052025001
+
+Fecha: 2025-05-30 | Hora: 07:20:00 | Cliente: CANNON
+Título: CANNON CYBER
+Media ID: COM29052025001
+
+Fecha: 2025-05-30 | Hora: 07:43:22 | Cliente: CANNON
+Título: CANNON CYBER
+Media ID: COM29052025001
+
+Fecha: 2025-05-30 | Hora: 07:43:37 | Cliente: CONSORCIO
+Título: G_CONS_URBANAREVTECNICA _445911
+Media ID: COM12052025016
+
+Fecha: 2025-05-30 | Hora: 07:55:07 | Cliente: CANNON
+Título: CANNON HOME ATELIER
+Media ID: COM09052025001
+
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

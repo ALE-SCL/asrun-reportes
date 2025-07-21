@@ -1,0 +1,1044 @@
+================================================================================
+REPORTE DE EMISIONES ASRUN
+================================================================================
+Generado: 2025-07-21 12:01:06
+Filtros aplicados: Desde: 2025-06-30 | Hasta: 2025-07-20
+Total de emisiones: 2,289
+Clientes únicos: 81
+================================================================================
+
+RESUMEN POR CLIENTE
+--------------------------------------------------
+Cliente: CNN
+  Emisiones: 331
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: CONSORCIO
+  Emisiones: 321
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: MARLEY
+  Emisiones: 224
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: FUNDACION YA-25 AGOSTO
+  Emisiones: 167
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: TE PILLE
+  Emisiones: 144
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: ATLAS
+  Emisiones: 126
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: EMPRESAS X CHILE
+  Emisiones: 119
+  Período: 2025-07-05 → 2025-07-20
+
+Cliente: CAP
+  Emisiones: 113
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: MIRA
+  Emisiones: 106
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: UNICEF WEB 447410
+  Emisiones: 79
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: BHP
+  Emisiones: 76
+  Período: 2025-06-30 → 2025-07-20
+
+Cliente: UNICEF FONO+WEB 447410
+  Emisiones: 62
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: BMW
+  Emisiones: 61
+  Período: 2025-07-08 → 2025-07-20
+
+Cliente: HOY
+  Emisiones: 46
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: CLIENTE_DESCONOCIDO
+  Emisiones: 41
+  Período: 2025-07-02 → 2025-07-11
+
+Cliente: SKECHERS
+  Emisiones: 28
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: GASCO
+  Emisiones: 24
+  Período: 2025-06-30 → 2025-07-18
+
+Cliente: TI HARD ROCK HOTEL CANCUN
+  Emisiones: 14
+  Período: 2025-07-01 → 2025-07-18
+
+Cliente: IMAGINA BLACK INMOBILIARIO
+  Emisiones: 13
+  Período: 2025-07-20 → 2025-07-20
+
+Cliente: CYNERSIS
+  Emisiones: 13
+  Período: 2025-07-01 → 2025-07-17
+
+Cliente: MINERIA
+  Emisiones: 9
+  Período: 2025-07-07 → 2025-07-17
+
+Cliente: TI SEGUROS SURA
+  Emisiones: 9
+  Período: 2025-07-02 → 2025-07-14
+
+Cliente: MOVISTAR
+  Emisiones: 9
+  Período: 2025-06-30 → 2025-07-15
+
+Cliente: A XTB INVERSIONES 30 SEG
+  Emisiones: 8
+  Período: 2025-07-14 → 2025-07-18
+
+Cliente: TOYOTA 4 RUNNER V2
+  Emisiones: 8
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: TI CMT SALUD
+  Emisiones: 7
+  Período: 2025-07-01 → 2025-07-13
+
+Cliente: AGENDA ECONOMICA AM
+  Emisiones: 7
+  Período: 2025-07-04 → 2025-07-18
+
+Cliente: S SEGURIDAD GUION 3
+  Emisiones: 6
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: S SEGURIDAD GUION 1
+  Emisiones: 6
+  Período: 2025-06-30 → 2025-06-30
+
+Cliente: S SEGURIDAD GUION 2
+  Emisiones: 6
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: TOYOTA TO
+  Emisiones: 6
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: AGENDA ECONOMICA
+  Emisiones: 6
+  Período: 2025-07-03 → 2025-07-11
+
+Cliente: MC 15 DE JULIO EDUARDO
+  Emisiones: 5
+  Período: 2025-07-16 → 2025-07-20
+
+Cliente: RADIO AM
+  Emisiones: 5
+  Período: 2025-07-11 → 2025-07-11
+
+Cliente: TI VEOLIA
+  Emisiones: 5
+  Período: 2025-07-01 → 2025-07-05
+
+Cliente: TI KDM EMPRESAS
+  Emisiones: 4
+  Período: 2025-06-30 → 2025-07-03
+
+Cliente: TOLERANCIA 0
+  Emisiones: 4
+  Período: 2025-07-07 → 2025-07-14
+
+Cliente: 08 AL 13 DEL 7 EDUARDO  VOTO OBI
+  Emisiones: 4
+  Período: 2025-07-09 → 2025-07-11
+
+Cliente: DG MEDIOS IMAGEN DRAGONS
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: DG MEDIOS DUA LIPA
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: DG MEDIOS LINKIN PARK
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-15
+
+Cliente: ---EXPLICA - MARIU CARRIU
+  Emisiones: 3
+  Período: 2025-07-14 → 2025-07-18
+
+Cliente: SSEGURIDAD
+  Emisiones: 3
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: 08 AL 13 DEL 7 MONICA LA AMENAZA
+  Emisiones: 3
+  Período: 2025-07-09 → 2025-07-10
+
+Cliente: AG AM
+  Emisiones: 3
+  Período: 2025-07-07 → 2025-07-07
+
+Cliente: TI FQP
+  Emisiones: 3
+  Período: 2025-06-30 → 2025-07-02
+
+Cliente: GEN FUTURO 360
+  Emisiones: 3
+  Período: 2025-07-04 → 2025-07-15
+
+Cliente: 08 AL 13 DEL 7 DANIEL LISTAS PAR
+  Emisiones: 2
+  Período: 2025-07-09 → 2025-07-10
+
+Cliente: --INFLUYENTES 06 JULIO DOM 19:30
+  Emisiones: 2
+  Período: 2025-07-02 → 2025-07-04
+
+Cliente: INFLUYENTES 20 DE JULIO CORTA
+  Emisiones: 2
+  Período: 2025-07-17 → 2025-07-18
+
+Cliente: GEN RADIO TUTORIAL V2 MARDONES
+  Emisiones: 2
+  Período: 2025-07-15 → 2025-07-17
+
+Cliente: TI SCM VIVIENDAS
+  Emisiones: 2
+  Período: 2025-06-30 → 2025-07-01
+
+Cliente: AG ECONOMICA AM
+  Emisiones: 2
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: --GEN PARES IMPARES LUNES 21:15
+  Emisiones: 1
+  Período: 2025-07-14 → 2025-07-14
+
+Cliente: --GEN HELICE SAB 11:00 HORAS
+  Emisiones: 1
+  Período: 2025-07-15 → 2025-07-15
+
+Cliente: ---TO 14 DE JULIO
+  Emisiones: 1
+  Período: 2025-07-14 → 2025-07-14
+
+Cliente: 08 DE JULIO DANIEL LISTAS PARLAM
+  Emisiones: 1
+  Período: 2025-07-08 → 2025-07-08
+
+Cliente: AQSD 03.07  BLOQUE 1
+  Emisiones: 1
+  Período: 2025-07-04 → 2025-07-04
+
+Cliente: AG EC
+  Emisiones: 1
+  Período: 2025-07-14 → 2025-07-14
+
+Cliente: 08 DE JULIO EDUARDO  VOTO OBIGAT
+  Emisiones: 1
+  Período: 2025-07-08 → 2025-07-08
+
+Cliente: FUTURO 010725 BL2
+  Emisiones: 1
+  Período: 2025-07-02 → 2025-07-02
+
+Cliente: BOLETIN MIERCOLES 16 DE JULIO 17
+  Emisiones: 1
+  Período: 2025-07-16 → 2025-07-16
+
+Cliente: CAF CHILE - ARGENTINA 18/07
+  Emisiones: 1
+  Período: 2025-07-17 → 2025-07-17
+
+Cliente: AQSD 17 DE JULIO CORTA
+  Emisiones: 1
+  Período: 2025-07-17 → 2025-07-17
+
+Cliente: EL TIEMPO TARDE 01/07/
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: INTIMO B2- ELGUETA
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: INFLUYENTES BLOQUE 02 13/07/2025
+  Emisiones: 1
+  Período: 2025-07-14 → 2025-07-14
+
+Cliente: HELICE BLOQUE 02
+  Emisiones: 1
+  Período: 2025-07-15 → 2025-07-15
+
+Cliente: HIDROGENO
+  Emisiones: 1
+  Período: 2025-07-01 → 2025-07-01
+
+Cliente: HELICE BLOQUE 01
+  Emisiones: 1
+  Período: 2025-07-15 → 2025-07-15
+
+Cliente: ENTREVISTA TEODISIO CAYO---TX
+  Emisiones: 1
+  Período: 2025-07-15 → 2025-07-15
+
+Cliente: ENT AC M. JOSE MORA--TX--
+  Emisiones: 1
+  Período: 2025-07-02 → 2025-07-02
+
+Cliente: GEN  TOLERANCIA CERO LUNES 22:00
+  Emisiones: 1
+  Período: 2025-07-07 → 2025-07-07
+
+Cliente: PROMO AQSD 03 JULIO LARGA
+  Emisiones: 1
+  Período: 2025-07-03 → 2025-07-03
+
+Cliente: PARES E IMPARES BLOQUE 01
+  Emisiones: 1
+  Período: 2025-07-15 → 2025-07-15
+
+Cliente: LO DIJO 01 AL 04 JULIO --BALLADA
+  Emisiones: 1
+  Período: 2025-07-04 → 2025-07-04
+
+Cliente: PARES E IMAPRES BLOQUE 03
+  Emisiones: 1
+  Período: 2025-07-17 → 2025-07-17
+
+Cliente: LO DIJO 10 AL 13 JUL MAYNE-NICHO
+  Emisiones: 1
+  Período: 2025-07-11 → 2025-07-11
+
+Cliente: TE EXPLICA LEY ADOPCIONES 18 JUL
+  Emisiones: 1
+  Período: 2025-07-11 → 2025-07-11
+
+Cliente: TOLERANCIA BLOQUE 2
+  Emisiones: 1
+  Período: 2025-07-08 → 2025-07-08
+
+Cliente: VIVO DEPORTES
+  Emisiones: 1
+  Período: 2025-07-04 → 2025-07-04
+
+
+ANÁLISIS DE STATUS
+------------------------------
+Completed: 1942 emisiones (84.8%)
+Lost XPoint Path: 174 emisiones (7.6%)
+Play Next: 173 emisiones (7.6%)
+
+DETALLE DE LOST XPOINT PATH (174 registros)
+--------------------------------------------------
+Fecha: 2025-07-01 | Hora: 07:00:08 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 07:23:16 | Cliente: HOY
+Título: GEN HOY ES NOTICIA L-V 17:30
+Media ID: PRM28022025002
+
+Fecha: 2025-07-01 | Hora: 07:26:19 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 07:40:55 | Cliente: HIDROGENO
+Título: HIDROGENO_VERDE_F360_1JULIO_LARG
+Media ID: PRM28052025121
+
+Fecha: 2025-07-01 | Hora: 07:43:58 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 07:56:16 | Cliente: CAP
+Título: +++CAP. HELICE DEMOCRACIA_SAB 05
+Media ID: PRM30062025002
+
+Fecha: 2025-07-01 | Hora: 08:00:15 | Cliente: AG ECONOMICA AM
+Título: AG ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 08:17:38 | Cliente: AG ECONOMICA AM
+Título: AG ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 08:34:29 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 09:11:28 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 09:38:48 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 09:58:13 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 10:12:41 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 10:35:54 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 11:01:39 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 13:00:24 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 13:29:06 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-01 | Hora: 14:17:25 | Cliente: EL TIEMPO TARDE 01/07/
+Título: EL TIEMPO TARDE 01/07/
+Media ID: ENT010725001
+
+Fecha: 2025-07-01 | Hora: 15:05:16 | Cliente: INTIMO B2- ELGUETA
+Título: INTIMO B2- ELGUETA
+Media ID: ENT270625007
+
+Fecha: 2025-07-02 | Hora: 07:00:23 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 07:23:27 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 07:40:00 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 07:58:24 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 08:16:52 | Cliente: TE PILLE
+Título: TE PILLE TENIS 2025
+Media ID: COM17062025001
+
+Fecha: 2025-07-02 | Hora: 08:19:00 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 08:37:17 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 09:08:56 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 09:40:00 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 09:55:21 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 10:11:42 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 10:28:49 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 11:03:21 | Cliente: CNN
+Título: CNN CHILE RADIO VIVO
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 13:00:15 | Cliente: CNN
+Título: CNN TARDE VIVO B1
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 13:40:51 | Cliente: UNICEF FONO+WEB 447410
+Título: UNICEF FONO+WEB 447410
+Media ID: COM16062025001
+
+Fecha: 2025-07-02 | Hora: 13:43:10 | Cliente: CNN
+Título: CNN TARDE VIVO B2
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 14:10:58 | Cliente: CNN
+Título: CNN TARDE VIVO B3
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 15:04:19 | Cliente: FUTURO 010725 BL2
+Título: FUTURO 010725 BL2
+Media ID: ENT010725005
+
+Fecha: 2025-07-02 | Hora: 15:29:07 | Cliente: --INFLUYENTES 06 JULIO DOM 19:30
+Título: --INFLUYENTES 06 JULIO DOM 19:30
+Media ID: PRM30062025017
+
+Fecha: 2025-07-02 | Hora: 15:30:37 | Cliente: CNN
+Título: CNN DEPORTES
+Media ID: 
+
+Fecha: 2025-07-02 | Hora: 16:02:54 | Cliente: ENT AC M. JOSE MORA--TX--
+Título: ENT AC M. JOSE MORA--TX--
+Media ID: ENT250625021
+
+Fecha: 2025-07-03 | Hora: 07:00:03 | Cliente: CNN
+Título: CNN AM EN VIVO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 07:29:17 | Cliente: CNN
+Título: CNN AM EN VIVO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 07:45:48 | Cliente: CNN
+Título: CNN AM EN VIVO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 07:57:20 | Cliente: PROMO AQSD 03 JULIO LARGA
+Título: PROMO AQSD 03 JULIO LARGA
+Media ID: PRM30062025007
+
+Fecha: 2025-07-03 | Hora: 08:00:36 | Cliente: AGENDA ECONOMICA
+Título: AGENDA ECONOMICA
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 08:20:52 | Cliente: AGENDA ECONOMICA
+Título: AGENDA ECONOMICA
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 08:36:47 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 09:10:32 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 09:37:42 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 09:55:00 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 10:13:40 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 10:36:11 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 11:02:27 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 13:00:05 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 13:24:03 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-03 | Hora: 14:06:32 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 06:00:22 | Cliente: AQSD 03.07  BLOQUE 1
+Título: AQSD 03.07  BLOQUE 1
+Media ID: ENT030725015
+
+Fecha: 2025-07-04 | Hora: 07:00:03 | Cliente: CNN
+Título: CNN AM VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 07:20:45 | Cliente: CAP
+Título: CAP 18 SANA M AUTOCOMPASION
+Media ID: PRM07042025004
+
+Fecha: 2025-07-04 | Hora: 07:23:37 | Cliente: CNN
+Título: CNN AM VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 07:35:58 | Cliente: --INFLUYENTES 06 JULIO DOM 19:30
+Título: --INFLUYENTES 06 JULIO DOM 19:30
+Media ID: PRM30062025018
+
+Fecha: 2025-07-04 | Hora: 07:36:19 | Cliente: LO DIJO 01 AL 04 JULIO --BALLADA
+Título: LO DIJO 01 AL 04 JULIO --BALLADA
+Media ID: PRM28052025099
+
+Fecha: 2025-07-04 | Hora: 07:38:55 | Cliente: CNN
+Título: CNN AM VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 07:57:55 | Cliente: GEN FUTURO 360
+Título: GEN FUTURO 360
+Media ID: PRM12082024001
+
+Fecha: 2025-07-04 | Hora: 08:01:13 | Cliente: AGENDA ECONOMICA AM
+Título: AGENDA ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 08:37:18 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 09:00:23 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 09:36:38 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 09:53:08 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 10:14:38 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 10:40:04 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 11:02:14 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 13:00:20 | Cliente: CNN
+Título: CNN TARDE VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 13:34:11 | Cliente: CNN
+Título: CNN TARDE VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 14:05:56 | Cliente: CNN
+Título: CNN TARDE VIVO
+Media ID: 
+
+Fecha: 2025-07-04 | Hora: 21:29:00 | Cliente: CAP
+Título: +++CAP. HELICE DEMOCRACIA_SAB 05
+Media ID: PRM30062025002
+
+Fecha: 2025-07-07 | Hora: 06:59:27 | Cliente: GEN  TOLERANCIA CERO LUNES 22:00
+Título: GEN  TOLERANCIA CERO LUNES 22:00
+Media ID: PRM28052025087
+
+Fecha: 2025-07-07 | Hora: 07:57:30 | Cliente: HOY
+Título: GEN HOY ES NOTICIA L-V 17:30
+Media ID: PRM28022025002
+
+Fecha: 2025-07-07 | Hora: 18:28:23 | Cliente: HOY
+Título: HOY ES NOTICIA
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 06:11:23 | Cliente: TOLERANCIA BLOQUE 2
+Título: TOLERANCIA BLOQUE 2
+Media ID: ENT070725012
+
+Fecha: 2025-07-08 | Hora: 15:30:17 | Cliente: CNN
+Título: CNN DEPORTE
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 18:51:40 | Cliente: HOY
+Título: HOY ES NOTICIA
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 19:07:55 | Cliente: HOY
+Título: HOY ES NOTICIA
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 20:02:13 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 20:34:45 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-08 | Hora: 21:22:01 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-09 | Hora: 15:30:07 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-09 | Hora: 18:49:04 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-09 | Hora: 19:00:31 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-09 | Hora: 20:00:26 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-09 | Hora: 20:25:51 | Cliente: CLIENTE_DESCONOCIDO
+Título: 
+Media ID: 
+
+Fecha: 2025-07-10 | Hora: 18:38:32 | Cliente: HOY
+Título: HOY ES NOTICIA
+Media ID: 
+
+Fecha: 2025-07-10 | Hora: 20:00:35 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-10 | Hora: 20:23:19 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-10 | Hora: 21:19:45 | Cliente: CNN
+Título: CNN PRIME / DESPEDIDA
+Media ID: 
+
+Fecha: 2025-07-11 | Hora: 07:57:21 | Cliente: LO DIJO 10 AL 13 JUL MAYNE-NICHO
+Título: LO DIJO 10 AL 13 JUL MAYNE-NICHO
+Media ID: PRM30062025053
+
+Fecha: 2025-07-11 | Hora: 07:58:06 | Cliente: TE EXPLICA LEY ADOPCIONES 18 JUL
+Título: TE EXPLICA LEY ADOPCIONES 18 JUL
+Media ID: PRM30062025029
+
+Fecha: 2025-07-11 | Hora: 18:01:33 | Cliente: HOY
+Título: HOY ES NOTICIA
+Media ID: 
+
+Fecha: 2025-07-11 | Hora: 20:00:18 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-11 | Hora: 20:26:06 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-11 | Hora: 21:23:39 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 06:31:16 | Cliente: INFLUYENTES BLOQUE 02 13/07/2025
+Título: INFLUYENTES BLOQUE 02 13/07/2025
+Media ID: ENT100725006
+
+Fecha: 2025-07-14 | Hora: 07:00:04 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 07:24:45 | Cliente: --GEN PARES IMPARES LUNES 21:15
+Título: --GEN PARES IMPARES LUNES 21:15
+Media ID: PRM10042025001
+
+Fecha: 2025-07-14 | Hora: 07:26:16 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 07:44:07 | Cliente: ---TO 14 DE JULIO
+Título: ---TO 14 DE JULIO
+Media ID: PRM30062025004
+
+Fecha: 2025-07-14 | Hora: 07:47:09 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 07:56:22 | Cliente: ---EXPLICA - MARIU CARRIU
+Título: ---EXPLICA - MARIU CARRIU_CENSO
+Media ID: PRM28042025027
+
+Fecha: 2025-07-14 | Hora: 08:00:33 | Cliente: AG EC
+Título: AG EC
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 08:35:05 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 09:10:11 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 09:57:26 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 10:15:16 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 10:31:21 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-14 | Hora: 11:05:56 | Cliente: CNN
+Título: CNN RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 06:48:40 | Cliente: CNN
+Título: GEN CNN RADIO CARO SEBA L_V 08:3
+Media ID: PRM03032025071
+
+Fecha: 2025-07-15 | Hora: 07:00:10 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 07:24:45 | Cliente: GEN RADIO TUTORIAL V2 MARDONES
+Título: GEN RADIO TUTORIAL V2 MARDONES
+Media ID: PRM29072024002
+
+Fecha: 2025-07-15 | Hora: 07:27:56 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 07:41:23 | Cliente: GEN FUTURO 360
+Título: GEN FUTURO 360
+Media ID: PRM12082024001
+
+Fecha: 2025-07-15 | Hora: 07:46:41 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 07:58:54 | Cliente: CAP
+Título: CAPS 7 PI LENGUAJE CREA REALIDAD
+Media ID: PRM28032025065
+
+Fecha: 2025-07-15 | Hora: 08:03:27 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 08:20:43 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 08:35:12 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 09:05:35 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 09:34:01 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 09:52:11 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 10:07:40 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 10:35:32 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 11:06:19 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-15 | Hora: 12:00:36 | Cliente: HELICE BLOQUE 01
+Título: HELICE BLOQUE 01
+Media ID: ENT110725003
+
+Fecha: 2025-07-15 | Hora: 12:10:53 | Cliente: HELICE BLOQUE 02
+Título: HELICE BLOQUE 02
+Media ID: ENT110725004
+
+Fecha: 2025-07-15 | Hora: 16:17:57 | Cliente: ENTREVISTA TEODISIO CAYO---TX
+Título: ENTREVISTA TEODISIO CAYO---TX
+Media ID: ENT090725010
+
+Fecha: 2025-07-15 | Hora: 16:29:40 | Cliente: ---EXPLICA - MARIU CARRIU
+Título: ---EXPLICA - MARIU CARRIU_CENSO
+Media ID: PRM28042025027
+
+Fecha: 2025-07-15 | Hora: 16:30:57 | Cliente: GEN FUTURO 360
+Título: GEN FUTURO 360
+Media ID: PRM12082024001
+
+Fecha: 2025-07-15 | Hora: 16:31:39 | Cliente: HOY
+Título: GEN HOY ES NOTICIA L-V 17:30
+Media ID: PRM28022025002
+
+Fecha: 2025-07-15 | Hora: 16:32:22 | Cliente: --GEN HELICE SAB 11:00 HORAS
+Título: --GEN HELICE SAB 11:00 HORAS
+Media ID: PRM07042025001
+
+Fecha: 2025-07-15 | Hora: 16:32:46 | Cliente: MOVISTAR
+Título: ID3 CNN CHILE MOVIL2
+Media ID: PRM27062024003
+
+Fecha: 2025-07-15 | Hora: 16:32:59 | Cliente: PARES E IMPARES BLOQUE 01
+Título: PARES E IMPARES BLOQUE 01
+Media ID: ENT140725003
+
+Fecha: 2025-07-15 | Hora: 20:00:22 | Cliente: CNN
+Título: CNN PRIME
+Media ID: 
+
+Fecha: 2025-07-16 | Hora: 17:00:31 | Cliente: BOLETIN MIERCOLES 16 DE JULIO 17
+Título: BOLETIN MIERCOLES 16 DE JULIO 17
+Media ID: BOL160725001
+
+Fecha: 2025-07-17 | Hora: 06:45:41 | Cliente: PARES E IMAPRES BLOQUE 03
+Título: PARES E IMAPRES BLOQUE 03
+Media ID: ENT140725005
+
+Fecha: 2025-07-17 | Hora: 07:00:17 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 07:24:35 | Cliente: AQSD 17 DE JULIO CORTA
+Título: AQSD 17 DE JULIO CORTA
+Media ID: PRM30062025012
+
+Fecha: 2025-07-17 | Hora: 07:27:31 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 07:41:47 | Cliente: CAF CHILE - ARGENTINA 18/07
+Título: CAF CHILE - ARGENTINA 18/07
+Media ID: PRM30062025031
+
+Fecha: 2025-07-17 | Hora: 07:44:49 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 07:55:57 | Cliente: INFLUYENTES 20 DE JULIO CORTA
+Título: INFLUYENTES 20 DE JULIO CORTA
+Media ID: PRM30062025022
+
+Fecha: 2025-07-17 | Hora: 07:56:17 | Cliente: GEN RADIO TUTORIAL V2 MARDONES
+Título: GEN RADIO TUTORIAL V2 MARDONES
+Media ID: PRM29072024002
+
+Fecha: 2025-07-17 | Hora: 08:19:00 | Cliente: AGENDA ECONOMICA AM
+Título: AGENDA ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 08:35:15 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 08:57:05 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 09:38:32 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 10:10:45 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 10:26:55 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 11:08:02 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-17 | Hora: 14:05:09 | Cliente: CNN
+Título: CNN TARDE
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 07:00:02 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 07:24:20 | Cliente: CAP
+Título: CAP 20 SM INVALID EMOCIONAL
+Media ID: PRM07042025006
+
+Fecha: 2025-07-18 | Hora: 07:27:27 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 07:41:28 | Cliente: CNN
+Título: CNN TE EXPLICA SENAME JAVIERA
+Media ID: PRM30062025034
+
+Fecha: 2025-07-18 | Hora: 07:44:28 | Cliente: CNN
+Título: CNN AM
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 07:58:18 | Cliente: INFLUYENTES 20 DE JULIO CORTA
+Título: INFLUYENTES 20 DE JULIO CORTA
+Media ID: PRM30062025022
+
+Fecha: 2025-07-18 | Hora: 08:01:26 | Cliente: AGENDA ECONOMICA AM
+Título: AGENDA ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 08:20:26 | Cliente: TE PILLE
+Título: TE PILLE TENIS 2025
+Media ID: COM17062025001
+
+Fecha: 2025-07-18 | Hora: 08:22:27 | Cliente: AGENDA ECONOMICA AM
+Título: AGENDA ECONOMICA AM
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 08:36:07 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 09:14:24 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 09:41:36 | Cliente: ---EXPLICA - MARIU CARRIU
+Título: ---EXPLICA - MARIU CARRIU_CENSO
+Media ID: PRM28042025027
+
+Fecha: 2025-07-18 | Hora: 09:42:53 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 10:21:55 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 10:32:43 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+Fecha: 2025-07-18 | Hora: 11:00:29 | Cliente: CNN
+Título: CNN CHILE RADIO
+Media ID: 
+
+
+================================================================================
+FIN DEL REPORTE
+================================================================================

@@ -1,0 +1,11 @@
+Log Output - Marina Text AsRun v1.0
+Filename: 'Test Upload File.txt'
+Channel: 'A) Tx List'
+From: 28/05/25 12:00:00 to 28/05/25 18:00:00
+Created : 28/05/25 18:00:00
+
+ TYPE START TIME             END TIME               MEDIA ID                         EVENT                TITLE                            SOM         SEGMENT                          DURATION    START TYPE   STRT OFFSET END TYPE     END OFFSET  DEVICE STREAM                    RECONCILE KEY                    HOUSE ID                         STATUS                          
+ ---- ---------------------- ---------------------- -------------------------------- -------------------- -------------------------------- ----------- -------------------------------- ----------- ------------ ----------- ------------ ----------- -------------------------------- -------------------------------- -------------------------------- ----------
+ P    28/05/2025 12:00:00;00 28/05/2025 12:00:30;00 COM_BMW_TEST_001                 Media Event          BMW SERIE 3 MAYO 2025           00:00:00;00 Media                            00:00:30;00 Sequential               Duration                 A) CNN-P                                                                                           Completed 
+ P    28/05/2025 12:30:00;00 28/05/2025 12:31:00;00 COM_CONSORCIO_TEST_002           Media Event          CONSORCIO URBANO CONCEPTO        00:00:00;00 Media                            00:01:00;00 Sequential               Duration                 A) CNN-P                                                                                           Completed 
+ P    28/05/2025 13:00:00;00 28/05/2025 13:00:45;00 COM_MARLEY_TEST_003              Media Event          MARLEY HAIR INSTITUCIONAL        00:00:00;00 Media                            00:00:45;00 Sequential               Duration                 A) CNN-P                                                                                           Completed

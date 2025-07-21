@@ -1,0 +1,24 @@
+[theme]
+# Colores principales
+primaryColor = "#2980b9"           # Color azul para widgets interactivos
+backgroundColor = "#ffffff"        # Fondo blanco
+secondaryBackgroundColor = "#f0f2f6"  # Fondo gris claro para sidebar
+textColor = "#262730"             # Color del texto
+
+# Fuente
+font = "sans serif"  # "sans serif", "serif", o "monospace"
+
+# Modo oscuro automático
+base = "light"  # "light" o "dark"
+
+[server]
+# Configuración del servidor
+port = 8501
+address = "0.0.0.0"  # Permite acceso desde cualquier IP de la red
+headless = false
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+# Configuración del navegador
+gatherUsageStats = false
